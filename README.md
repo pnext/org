@@ -22,4 +22,4 @@ There has been a lot of prior work to the work, displaying pointcloud data. This
 [entwine](https://github.com/connormanning/entwine) and [Cesium](https://cesiumjs.org/).
 
 ## License
-All projects in this group are to be published under the [MIT](https://en.wikipedia.org/wiki/MIT_License) License.
+All projects in this group are to be published under the [BSD-Clause-2](https://opensource.org/licenses/BSD-2-Clause) License.
