@@ -7,6 +7,8 @@ are discussed in the [issue](https://github.com/pnext/org/issues) tracker. All d
 documents - subject to change. You a are encouraged to ask questions and suggest changes on how we do things.
 _(We prefer a [PR](https://help.github.com/articles/about-pull-requests/) over a question though...)_
 
+Any PR on the organization needs to be approved by two **admins** (other than the person submitting the issue).
+
 In the community we currently have two teams:
  
 - **admin:** Administrators can create and archive projects.
