@@ -1,4 +1,7 @@
 # Welcome!
+
+[![Join the chat at https://gitter.im/pnext/org](https://badges.gitter.im/pnext/org.svg)](https://gitter.im/pnext/org?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to `pnext`. `pnext` is a open open-source project (see: [#org](#org)) focussed on displaying [pointcloud](https://en.wikipedia.org/wiki/Point_cloud) data.
 
 ## org
